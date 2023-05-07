@@ -1,4 +1,22 @@
 # Auto-GPT: An Autonomous GPT-4 Experiment
+
+
+<h2 align="center"> 💖 大家好 💖</h2>
+
+ 这个项目是基于 **Auto-GPT**  0.3版本的学习使用版本。
+ 
+ ## 学习目的：
+ 1. 在GitPod上部署运行。
+ 
+ ## 目前遇到过的问题：
+ 1. 云端部署时存在的Python版本不兼容问题
+ 2. AutoGPT本身的加载时更新依赖库安装路径中不包含云端自己的安装路径
+ 3. 云端环境本身的安装Python库动态库损坏。
+ 
+ 以下为原本内容
+ 
+ ---------------
+ 
 [![Official Website](https://img.shields.io/badge/Official%20Website-agpt.co-blue?style=flat&logo=world&logoColor=white)](https://agpt.co)
 [![Unit Tests](https://img.shields.io/github/actions/workflow/status/Significant-Gravitas/Auto-GPT/ci.yml?label=unit%20tests)](https://github.com/Significant-Gravitas/Auto-GPT/actions/workflows/ci.yml)
 [![Discord Follow](https://dcbadge.vercel.app/api/server/autogpt?style=flat)](https://discord.gg/autogpt)
